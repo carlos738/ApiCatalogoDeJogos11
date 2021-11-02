@@ -1,0 +1,16 @@
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\bin\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.deps.json
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\bin\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.runtimeconfig.json
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\bin\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.runtimeconfig.dev.json
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\bin\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.dll
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\bin\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.pdb
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.csprojAssemblyReference.cache
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.csproj.CoreCompileInputs.cache
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.RazorAssemblyInfo.cache
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.RazorAssemblyInfo.cs
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.AssemblyInfoInputs.cache
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.AssemblyInfo.cs
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.RazorTargetAssemblyInfo.cache
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.dll
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\ApiCatalogoDeJogos11.pdb
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\EFCoreSqlServerNetTopologySuite.cs
+C:\Users\HOME\source\repos\ApiCatalogoDeJogos11\ApiCatalogoDeJogos11\obj\Debug\netcoreapp2.2\EFCoreSqliteNetTopologySuite.cs
